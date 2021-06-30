@@ -22,14 +22,14 @@ mingw-w64-x86_64-gdb
 - Opened C++ file agian in Visual Studio Code. Run.
 - Problem: New error -- collect2.exe: error: ld returned 1 exit status 
 https://stackoverflow.com/questions/27593029/c-compile-collect2-error-ld-returned-1-exit-status 
-- Start > Environment Variable > Path > C C++ Workspace path copied > Save > Close Workspace > Reopen > Run 
+- Solution: Start > Environment Variable > Path > C C++ Workspace path copied > Save > Close Workspace > Reopen > Run 
 - Success!!! 
  
 Problem: No console I/O + Code wont stop running. 
 - Settings > Check: Run code in Terminal. 
 - Problem: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.
 https://stackoverflow.com/questions/68185876/vs-code-unable-to-write-into-user-settings-please-open-the-user-settings-to-co 
-- Delete all text in json file. 
+- Solution: Delete all text in json file. 
 - Success!!! 
 
 Postcodition: Environment set up for C/C++ projects. 
