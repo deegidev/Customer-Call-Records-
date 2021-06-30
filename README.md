@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=0HD0pqVtsmw
 mingw-w64-x86_64-gcc 
 mingw-w64-x86_64-gdb
 - Set up path location variable. 
-- Opened C++ file agian in Visual Studio Code. Run.
+- Opened C++ file again Visual Studio Code > Run.
 - Problem: New error -- collect2.exe: error: ld returned 1 exit status 
 https://stackoverflow.com/questions/27593029/c-compile-collect2-error-ld-returned-1-exit-status 
 - Solution: Start > Environment Variable > Path > C C++ Workspace path copied > Save > Close Workspace > Reopen > Run 
