@@ -6,7 +6,7 @@ Downloaded C++ dependencies.
 Copy pasted project. 
 
 Problem: Include errors -- Unable to resolve configuration with compilerPath: "gcc" 
-- Already had downloaded C/C++ for Visual Studio code 
+- Precondition: C/C++ for Visual Studio code downloaded and enabled globally. Code runner as well. 
 - Downloaded for Visual Studio as well. 
 - Took a while (Created "Newbie Programming Vocabulary" project while I waited.)
 - Tried to set up in Windows Powershell 
