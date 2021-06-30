@@ -1,9 +1,7 @@
 # Customer-Call-Records-
 
 Attempting to convert school C++ project to native environement.
-
-Downloaded C++ dependencies. 
-Copy pasted project. 
+- Copy pasted project. 
 
 Problem: Include errors -- Unable to resolve configuration with compilerPath: "gcc" 
 - Precondition: C/C++ for Visual Studio code downloaded and enabled globally. Code runner as well. 
