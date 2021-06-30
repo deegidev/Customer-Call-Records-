@@ -34,3 +34,4 @@ https://stackoverflow.com/questions/68185876/vs-code-unable-to-write-into-user-s
 - Delete all text in json file. 
 - Success!!! 
 
+Postcodition: Environment set up for C/C++ projects. 
