@@ -11,7 +11,7 @@ Problem: Include errors -- Unable to resolve configuration with compilerPath: "g
 - Tried to set up in Powershell for Visual Studio
 - Same error. 
 
-Decided to slow down and watch a full Youtube: How to Download and Install C Cpp Toolset ( gcc g++ gdb ) in Windows 10 using mingw-w64 and msys2
+Solution: Decided to slow down and watch a full Youtube: How to Download and Install C Cpp Toolset ( gcc g++ gdb ) in Windows 10 using mingw-w64 and msys2
 https://www.youtube.com/watch?v=0HD0pqVtsmw 
 - Msys2- A software distribution and building platform for Windows. A collection of tools and libraries needed for the environment for building and creating Native Windows applications.
 - It consists of a command line terminal called mintty, bash, version control systems like git and subversion, tools like tar and awk and even build systems like autotools, all based on a modified version of Cygwin.
