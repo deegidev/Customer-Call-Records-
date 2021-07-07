@@ -7,7 +7,8 @@ Action - All of the text below shows my results form searching various parts of 
 Resolution - Success!! Environment set up for C/C++ projects.     
 /////////////////////////////////////////////////////////////
 
-/*Tasks*/
+*Tasks  
+  
 Precondition: C/C++ for Visual Studio code downloaded and enabled globally. Code runner as well.
 Downloaded for Visual Studio as well.  
 Took a while (Created "Newbie Programming Vocabulary" project while I waited.)  
